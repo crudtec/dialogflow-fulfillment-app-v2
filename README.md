@@ -1,7 +1,7 @@
 # dialogflow-fulfillment-app-v2
 Utilizado em Workshops de# DialogFlow Fulfillment
 
-Este é o proje base para o Hands-On desenvolvido pela [CrudTec](https://crudtec.com.br) para fins de estudo.
+Este é o projeto base para o Hands-On desenvolvido pela [CrudTec](https://crudtec.com.br) para fins de estudo.
 
 Contribuições no projeto são bem-vindas.
 
@@ -22,7 +22,7 @@ No DialogFlow podemos utilizar o Fulfillment "Inline" ou "Webhook".
     Possui algumas desvantagens:
     
     - Só pode ser programado utilizando a linguagem JavaScript (NODE.JS);
-    - Só existe um arquivo que pode ser programado (Não é possível criar várias classes);
+    - Só existe um arquivo que pode ser programado (Não é possível criar várias classes/arquivos);
     - É difícil de debugar o código;
     - Na versão gratuita apenas os produtos do Google estão acessíveis.
 
@@ -42,7 +42,7 @@ No DialogFlow podemos utilizar o Fulfillment "Inline" ou "Webhook".
     - Precisa ter autenticação na API ao menos em nível básico;
 
 
-O Fulfillment pode receber, e na maioria das vezes deve receber, parâmetros digitados pelo usuário na conversa. Geralmente esses parâmetros são as entidades de sistema, desenvolvedor ou sessão.
+O Fulfillment pode receber, e na maioria das vezes deve receber, parâmetros digitados pelo usuário na conversa. Geralmente esses parâmetros são as intenções, entidades de sistema, desenvolvedor ou sessão.
 
 ## Mão na massa
 
@@ -50,13 +50,13 @@ Agora que já sabemos tudo sobre Fulfillment vamos colocar a mão na massa:
 
 **Vamos criar um Fulfillment capaz de criar eventos no Google Calendar para uma Clínica Médica**
 
-A regra de negócio vai ser bem simples. O paciente pode agendar consulta com qualquer especialista cadastrado nas entidades do DialogFlow. Os parâmetros obrigatórios para nosso Fulfillment são:
+A regra de negócio será bem simples. O paciente pode agendar consulta com qualquer especialista cadastrado nas entidades do DialogFlow. Os parâmetros obrigatórios para nosso Fulfillment são:
 
 - Dia da consulta
 - Horário da consulta
 - Especialidade da consulta
 
-Nossa clínica é 24 horas. Podem haver vários agendamentos para um mesmo horário desde que sejam agendamentos para especialidades diferentes. Caso o horário desejado já possua agendamento deve-se então tentar achar outro horário para o paciente e responder com as alternativas. Caso esteja disponível pode-se agendar imediatamente.
+Nossa clínica será 24 horas. Podem haver vários agendamentos para um mesmo horário desde que sejam agendamentos para especialidades diferentes. Caso o horário desejado já possua agendamento deve-se então tentar achar outro horário para o paciente e responder com as alternativas. Caso esteja disponível pode-se agendar imediatamente.
 
 **Vamos utilizar o Fulfillment Inline com um código simples para facilitar o entendimento**
 
@@ -417,3 +417,9 @@ Também verifique se sua intenção está chamando fulfillment quando executada 
 ## Finalizando
 
 É com prazer que informo que concluímos nosso hands on. Vamos testar? BOTs Inteligentes
+
+## Dúvidas, sugestões ou contribuições
+
+[Rafael Sotero](https://github.com/soterocra) e [Wladimir Neto](https://github.com/wladneto)
+
+ou  falecom@crudtec.com.br
