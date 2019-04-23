@@ -56,7 +56,7 @@ A regra de negócio será bem simples. O paciente pode agendar consulta com qual
 - Horário da consulta
 - Especialidade da consulta
 
-Nossa clínica será 24 horas. Podem haver vários agendamentos para um mesmo horário desde que sejam agendamentos para especialidades diferentes. Caso o horário desejado já possua agendamento deve-se então tentar achar outro horário para o paciente e responder com as alternativas. Caso esteja disponível pode-se agendar imediatamente.
+Nossa clínica será 24 horas. Podem haver vários agendamentos para um mesmo horário desde que sejam agendamentos para especialidades diferentes. Caso o horário esteja disponível, será feito o agendamento na agenda da clínica. Caso o horário desejado já possua agendamento deve-se então tentar achar outro horário para o paciente e responder com as alternativas. Assim o fluxo neste exemplo começará novamente.
 
 **Vamos utilizar o Fulfillment Inline com um código simples para facilitar o entendimento**
 
