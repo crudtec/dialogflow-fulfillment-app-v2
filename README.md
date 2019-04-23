@@ -64,11 +64,11 @@ Nossa clínica será 24 horas. Podem haver vários agendamentos para um mesmo ho
 
 ![](img/f1.png)
 
-2) Na sessão package.json coloque as dependências. Basta copiar o código do arquivo package.json deste repositório e substitua
+2) Na sessão package.json coloque as dependências. Basta copiar o código do arquivo [package.json](https://github.com/crudtec/dialogflow-fulfillment-app-v2/blob/master/package.json) deste repositório e substitua.
 
 ![](img/f2.png)
 
-3) Ao lado da sessão package.json cliquem em index.js e copie o código do arquivo index.js deste repositório e substitua.
+3) Ao lado da sessão package.json cliquem em index.js e copie o código do arquivo [index.js](https://github.com/crudtec/dialogflow-fulfillment-app-v2/blob/master/index.js) deste repositório e substitua.
 
 4) Clique no botão de "Deploy" do Editor. Essa ação de deploy pode levar mais de 1 minuto.
 
