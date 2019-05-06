@@ -209,7 +209,7 @@ Ou se quiser [crie issues](https://github.com/crudtec/dialogflow-fulfillment-app
 ## Créditos 
 [![](https://sourcerer.io/fame/wladneto/wladneto/dialogflow-fulfillment-app-v2/images/0)](https://sourcerer.io/fame/wladneto/wladneto/dialogflow-fulfillment-app-v2/links/0)[![](https://sourcerer.io/fame/wladneto/wladneto/dialogflow-fulfillment-app-v2/images/1)](https://sourcerer.io/fame/wladneto/wladneto/dialogflow-fulfillment-app-v2/links/1)[![](https://sourcerer.io/fame/wladneto/wladneto/dialogflow-fulfillment-app-v2/images/2)](https://sourcerer.io/fame/wladneto/wladneto/dialogflow-fulfillment-app-v2/links/2)[![](https://sourcerer.io/fame/wladneto/wladneto/dialogflow-fulfillment-app-v2/images/3)](https://sourcerer.io/fame/wladneto/wladneto/dialogflow-fulfillment-app-v2/links/3)[![](https://sourcerer.io/fame/wladneto/wladneto/dialogflow-fulfillment-app-v2/images/4)](https://sourcerer.io/fame/wladneto/wladneto/dialogflow-fulfillment-app-v2/links/4)[![](https://sourcerer.io/fame/wladneto/wladneto/dialogflow-fulfillment-app-v2/images/5)](https://sourcerer.io/fame/wladneto/wladneto/dialogflow-fulfillment-app-v2/links/5)[![](https://sourcerer.io/fame/wladneto/wladneto/dialogflow-fulfillment-app-v2/images/6)](https://sourcerer.io/fame/wladneto/wladneto/dialogflow-fulfillment-app-v2/links/6)[![](https://sourcerer.io/fame/wladneto/wladneto/dialogflow-fulfillment-app-v2/images/7)](https://sourcerer.io/fame/wladneto/wladneto/dialogflow-fulfillment-app-v2/links/7)
 
-- [CrudTec] (https://github.com/crudtec/)
+- [CrudTec](https://github.com/crudtec/)
 - [Rafael Sotero](https://github.com/soterocra) 
 - [Wladimir Neto](https://github.com/wladneto)
 
