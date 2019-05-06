@@ -196,10 +196,22 @@ Também verifique se sua intenção está chamando fulfillment quando executada 
 
 É com prazer que informo que concluímos nosso hands on. Vamos testar? BOTs Inteligentes
 
-## Dúvidas, sugestões ou contribuições
+## Como Contribuir?
+
+1. 🍴 Faça um Fork neste repo [aqui](https://github.com/crudtec/dialogflow-fulfillment-app-v2#fork-destination-box)
+2. 🔨 Faça suas contribuições
+3. 👥 Adicione seu nome e seu perfil nos créditos
+4. 🔧 Faça um pull request [aqui](https://github.com/crudtec/dialogflow-fulfillment-app-v2/compare)
+5. 🎉 Analisamos as constribuições e aprovamos! Sucesso!
+
+Ou se quiser [crie issues](https://github.com/crudtec/dialogflow-fulfillment-app-v2/issues) para melhorarmos o projeto! 😊
+
+## Créditos 
 [![](https://sourcerer.io/fame/wladneto/wladneto/dialogflow-fulfillment-app-v2/images/0)](https://sourcerer.io/fame/wladneto/wladneto/dialogflow-fulfillment-app-v2/links/0)[![](https://sourcerer.io/fame/wladneto/wladneto/dialogflow-fulfillment-app-v2/images/1)](https://sourcerer.io/fame/wladneto/wladneto/dialogflow-fulfillment-app-v2/links/1)[![](https://sourcerer.io/fame/wladneto/wladneto/dialogflow-fulfillment-app-v2/images/2)](https://sourcerer.io/fame/wladneto/wladneto/dialogflow-fulfillment-app-v2/links/2)[![](https://sourcerer.io/fame/wladneto/wladneto/dialogflow-fulfillment-app-v2/images/3)](https://sourcerer.io/fame/wladneto/wladneto/dialogflow-fulfillment-app-v2/links/3)[![](https://sourcerer.io/fame/wladneto/wladneto/dialogflow-fulfillment-app-v2/images/4)](https://sourcerer.io/fame/wladneto/wladneto/dialogflow-fulfillment-app-v2/links/4)[![](https://sourcerer.io/fame/wladneto/wladneto/dialogflow-fulfillment-app-v2/images/5)](https://sourcerer.io/fame/wladneto/wladneto/dialogflow-fulfillment-app-v2/links/5)[![](https://sourcerer.io/fame/wladneto/wladneto/dialogflow-fulfillment-app-v2/images/6)](https://sourcerer.io/fame/wladneto/wladneto/dialogflow-fulfillment-app-v2/links/6)[![](https://sourcerer.io/fame/wladneto/wladneto/dialogflow-fulfillment-app-v2/images/7)](https://sourcerer.io/fame/wladneto/wladneto/dialogflow-fulfillment-app-v2/links/7)
 
-[Rafael Sotero](https://github.com/soterocra) e [Wladimir Neto](https://github.com/wladneto)
+- [CrudTec] (https://github.com/crudtec/)
+- [Rafael Sotero](https://github.com/soterocra) 
+- [Wladimir Neto](https://github.com/wladneto)
 
 ou  falecom@crudtec.com.br
 
