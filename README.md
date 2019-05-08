@@ -48,6 +48,18 @@ O Fulfillment pode receber, e na maioria das vezes deve receber, parâmetros dig
 
 Agora que já sabemos tudo sobre Fulfillment vamos colocar a mão na massa:
 
+**Configurar DialogFlow**
+
+1. Faça login no [DialogFlow](https://console.dialogflow.com/api-client/#/login)
+2. Clique em "Create new agent"
+   - [x] Default Language -> pt-br
+   - [x] CREATE
+3. Clique em "Settings"
+4. Em General -> Marque "V2 API"
+5. Em Export and Import -> Import From Zip o Arquivo [Exemplo](https://github.com/crudtec/dialogflow-fulfillment-app-v2/blob/master/DT-Week-HandsOn.zip)
+
+Assim todas as intenções e entidades do Hands-on serão importadas para o seu agente e já podemos iniciar a parte do Fulfillment.✈️
+
 **Vamos criar um Fulfillment capaz de criar eventos no Google Calendar para uma Clínica Médica**
 
 A regra de negócio será bem simples. O paciente pode agendar consulta com qualquer especialista cadastrado nas entidades do DialogFlow. Os parâmetros obrigatórios para nosso Fulfillment são:
